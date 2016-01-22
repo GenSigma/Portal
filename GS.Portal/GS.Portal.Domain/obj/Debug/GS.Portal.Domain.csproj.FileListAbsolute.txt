@@ -1,0 +1,5 @@
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\bin\Debug\GS.Portal.Domain.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\bin\Debug\GS.Portal.Domain.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.csprojResolveAssemblyReference.cache
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.pdb

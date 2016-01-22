@@ -1,0 +1,5 @@
+F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Potal.Business.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Potal.Business.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.csprojResolveAssemblyReference.cache
+F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.pdb
