@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,7 +41,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interface\IUserManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GS.Portal.Data\GS.Portal.Data.csproj">
+      <Project>{0319ec91-311c-4e57-8bbe-3b43f6dc0596}</Project>
+      <Name>GS.Portal.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GS.Portal.Domain\GS.Portal.Domain.csproj">
+      <Project>{199cd2d6-f99b-4ff5-b920-1ef7943d4f40}</Project>
+      <Name>GS.Portal.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

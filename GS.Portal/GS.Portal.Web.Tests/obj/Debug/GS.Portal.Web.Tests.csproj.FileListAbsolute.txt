@@ -122,3 +122,9 @@ F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Net.Htt
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.csprojResolveAssemblyReference.cache
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Domain.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Potal.Business.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Domain.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Potal.Business.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Data.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Data.pdb

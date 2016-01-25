@@ -174,3 +174,9 @@ F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Mi
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.csprojResolveAssemblyReference.cache
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.pdb
