@@ -105,6 +105,8 @@ F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Web.pdb
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Antlr3.Runtime.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\EntityFramework.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\EntityFramework.SqlServer.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Agent.Intercept.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.DependencyCollector.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -139,6 +141,9 @@ F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Deploy
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Razor.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\WebGrease.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.pdb
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.DependencyCollector.xml
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Web.xml
@@ -171,12 +176,7 @@ F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.OA
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Google.xml
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Twitter.xml
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.pdb
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.csprojResolveAssemblyReference.cache
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.pdb
-F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.dll
-F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.pdb
-F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.dll
-F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.pdb
-F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.dll
-F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.pdb

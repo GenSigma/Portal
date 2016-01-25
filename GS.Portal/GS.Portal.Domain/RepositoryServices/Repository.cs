@@ -1,7 +1,7 @@
 ﻿using GS.Portal.Domain.Repositories;
-using System;
 using System.Collections.Generic;
 using System.Data.Entity;
+using System.Linq;
 
 namespace GS.Portal.Domain.RepositoryServices
 {
@@ -16,31 +16,31 @@ namespace GS.Portal.Domain.RepositoryServices
 
         public void Add(TEntity entity)
         {
-            throw new NotImplementedException();
+            _context.Set<TEntity>().Add(entity);
         }
 
         public void AddRange(IEnumerable<TEntity> entities)
         {
-            throw new NotImplementedException();
+            _context.Set<TEntity>().AddRange(entities);
         }
 
         public TEntity Get(int id)
         {
-            throw new NotImplementedException();
+            return _context.Set<TEntity>().Find(id);
         }
 
         public IEnumerable<TEntity> GetAll()
         {
-            throw new NotImplementedException();
+            return _context.Set<TEntity>().ToList();
         }
 
         public void Remove(TEntity entity)
         {
-            throw new NotImplementedException();
+            _context.Set<TEntity>().Remove(entity);
         }
         public void RemoveRange(IEnumerable<TEntity> entities)
         {
-            throw new NotImplementedException();
+            _context.Set<TEntity>().RemoveRange(entities);
         }
     }
 }
