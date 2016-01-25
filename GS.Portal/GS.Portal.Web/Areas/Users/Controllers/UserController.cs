@@ -1,10 +1,6 @@
 ﻿using GS.Portal.Web.Areas.Users.Models;
 using GS.Potal.Business;
 using GS.Potal.Business.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace GS.Portal.Web.Areas.Users.Controllers
