@@ -16,7 +16,7 @@ namespace GS.Potal.Business
         {
             using (var portal = new PortalUnitOfWork(new GS_PortalEntities()))
             {
-                return portal.User.Get(id);
+                return portal.User.GetMasterUser(id);
             }
         }
     }

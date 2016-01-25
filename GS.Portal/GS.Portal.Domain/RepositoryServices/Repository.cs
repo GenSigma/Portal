@@ -24,9 +24,9 @@ namespace GS.Portal.Domain.RepositoryServices
             throw new NotImplementedException();
         }
 
-        public TEntity Get(string id)
+        public TEntity Get(int id)
         {
-            return _context.Set<TEntity>().Find(id);
+            throw new NotImplementedException();
         }
 
         public IEnumerable<TEntity> GetAll()
@@ -38,7 +38,6 @@ namespace GS.Portal.Domain.RepositoryServices
         {
             throw new NotImplementedException();
         }
-
         public void RemoveRange(IEnumerable<TEntity> entities)
         {
             throw new NotImplementedException();

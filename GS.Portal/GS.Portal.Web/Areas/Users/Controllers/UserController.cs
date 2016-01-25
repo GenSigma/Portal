@@ -1,4 +1,5 @@
-﻿using GS.Potal.Business;
+﻿using GS.Portal.Web.Areas.Users.Models;
+using GS.Potal.Business;
 using GS.Potal.Business.Interface;
 using System;
 using System.Collections.Generic;
@@ -15,8 +16,9 @@ namespace GS.Portal.Web.Areas.Users.Controllers
         // GET: Users/User
         public ActionResult Index()
         {
-            user.GetMasterUser("eca8fd88-c37f-4090-890e-953c6f024a70");
-            return View();
+            var userModel = new UserModels();
+            userModel.MasterUser = user.GetMasterUser("eca8fd88-c37f-4090-890e-953c6f024a70");
+            return View(userModel);
         }
 
         // GET: Users/User/Details/5

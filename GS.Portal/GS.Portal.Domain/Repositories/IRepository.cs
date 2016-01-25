@@ -4,7 +4,7 @@ namespace GS.Portal.Domain.Repositories
 {
     public interface IRepository<TEntity> where TEntity : class
     {
-        TEntity Get(string id);
+        TEntity Get(int id);
         IEnumerable<TEntity> GetAll();
 
         void Add(TEntity entity);
